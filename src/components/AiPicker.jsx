@@ -1,11 +1,11 @@
 import React from 'react';
 
-const AlPickers = () => {
+const AiPicker = () => {
   return (
     <div>
-      
+      AiPicker
     </div>
   );
 }
 
-export default AlPickers;
+export default AiPicker;
